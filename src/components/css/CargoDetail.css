@@ -1,0 +1,93 @@
+.search-outer{
+    width: 76%;
+    margin-bottom: 3rem;
+}
+
+
+.chip-container{
+    display: flex;
+    gap: 2px;
+}
+.chip-container span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px;
+    width: 90px;
+    gap: 4px;
+    border-radius: 5px;
+    font-size: 12px;
+    /* background-color: red; */
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.05);
+}
+
+.unit-checkbox{
+    margin-top: 1rem;
+}
+.transportation{
+    width: 36.5%;
+    margin-top: 1.5rem;
+}
+
+.input-container{
+    width: 76%;
+    display: flex;
+    gap: 2%;
+}
+
+.additional-info{
+    width: 76%;
+}
+
+.associated-services{
+    margin-top: 3rem;
+}
+
+.associated-chips{
+    width: 76%;
+    display: flex;
+    gap: 1rem;
+}
+
+.cargoes-finance{
+    margin-top: 3rem;
+}
+
+.blue-box{
+    width: 100%;
+    background-color: #f2f9ff;
+    border-radius: 5px;
+    padding: 1rem;
+    display: flex;
+}
+
+.blue-box-check{
+    margin-top: 0.8rem;
+}
+
+.blue-box h3{
+    font-size: 20;
+}
+.blue-box p{
+    font-size: 17px;
+}
+
+.button-container{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.button-holder{
+    width: 4vw;
+    background-color: red;
+}
+
+.button{
+    background-color: #0088ff;
+    width: 15vw;
+}
+
+.tandc{
+    color: #0088ff;
+}

@@ -1,0 +1,24 @@
+.headline-outer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headline-heading{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.headline-heading h1{
+    font-size: 34px;
+}
+
+.select-component{
+    position: relative;
+    top: -1rem;
+}
+.headline-outer p{
+    position: relative;
+    top: -1rem;
+}
