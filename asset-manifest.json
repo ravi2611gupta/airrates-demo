@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airrates-demo/static/css/main.8f15285a.css",
+    "main.js": "/airrates-demo/static/js/main.a1c209e7.js",
+    "static/js/787.b40ed1b3.chunk.js": "/airrates-demo/static/js/787.b40ed1b3.chunk.js",
+    "index.html": "/airrates-demo/index.html",
+    "main.8f15285a.css.map": "/airrates-demo/static/css/main.8f15285a.css.map",
+    "main.a1c209e7.js.map": "/airrates-demo/static/js/main.a1c209e7.js.map",
+    "787.b40ed1b3.chunk.js.map": "/airrates-demo/static/js/787.b40ed1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f15285a.css",
+    "static/js/main.a1c209e7.js"
+  ]
+}
